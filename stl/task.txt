@@ -1,0 +1,13 @@
+take input from user.. size
+
+5 --> 5 elemt
+
+list empty == ->
+
+//validation list empty -->
+
+list is empty
+-->remove --> 5 a
+
+
+
