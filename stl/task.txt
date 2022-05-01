@@ -11,3 +11,32 @@ list is empty
 
 
 
+//stack -->
+
+store elements accending order in stack
+-->remove duplicate elements from stack...
+
+
+vector :--
+
+create vector for employee names..
+
+CRUD -->
+
+insert employee name
+get employee names
+delete employee name
+update employee name
+search employee name  and return position
+
+
+
+
+
+
+
+
+
+
+
+

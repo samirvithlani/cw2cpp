@@ -19,6 +19,7 @@ int main(){
     students.push_back("Paul");
     students.push_front("raj");
 
+    cout<<students[0]<<endl;
     //students.insert(students.begin(),"Daksh");
     list<string> :: iterator it;
     for(it=students.begin();it!=students.end();it++){
